@@ -21,15 +21,15 @@ hashes = gl.map {|commit|
 
   desc = CGI.escapeHTML(commit.join)
   {
-    :title => hash[:commit],
-    :link => "http://sixeight.github.com/livecoding8/",
-    :date => Time.parse(hash[:date]),
-    :description => '<![CDATA[<pre>' + desc + '</pre>]]>'
+    title: hash[:commit],
+    link: "http://sixeight.github.com/livecoding8/",
+    date: Time.parse(hash[:date]),
+    description: '<![CDATA[<pre>' + desc + '</pre>]]>'
   }
 }
 
 puts RSS.make(
-    :title => "Recent Commits to livecoding8:master with Diff",
-    :description => "Recent Commits to livecoding8:master with Diff",
-    :link => "http://sixeight.github.com/livecoding8/",
-    :items => hashes)
+    title: "Recent Commits to livecoding8:master with Diff",
+    description: "Recent Commits to livecoding8:master with Diff",
+    link: "http://sixeight.github.com/livecoding8/",
+    items: hashes)
