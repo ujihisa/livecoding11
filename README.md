@@ -1,36 +1,38 @@
-# LiveCoding#8+1
+# LiveCoding#11
 
 <div id="path">
-Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for Sixeight/livecoding8 at master" /></a>
+Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for ujihisa/livecoding11 at master" /></a>
 </div>
 
 ## お知らせ
 
-LiveCoding#8+1 は現在 LiveCoder を募集中です。
+LiveCoding#11 は現在 LiveCoder を募集中です。
 
-詳しくは [西村(Sixeight)](tomohiro68@gmail.com) まで。
+詳しくは [西村(Sixeight)](tomohiro68 at gmail dot com) まで。
 
 ## 概要(予定)
-* **2010-01-23 (土) 17時半開場、18時開始**
+
+* **2012-11-*\* (*) 17時半(?)開場、18時(?)開始**
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
-* 参加費: 3000円 (飲食込み)
+* 参加費: n000円 (飲食込み)
 
 LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
 
 ## LiveCodingについて詳しく
-一人の"LiveCoder"が、20分の制限時間で何かソフトウェアを作り、デモをします。
+
+一人の"LiveCoder"が、*20分*の制限時間で何かソフトウェアを作り、デモをします。
 LiveCoderがどのようにコーディングしているかの全てがプロジェクターで大画面に映し出され、
 さらに解説役が常にLiveCoderの挙動を説明します。
 
 > A 「コンパイル中です・・・、お、おおお、なんと、Syntax error!」
 >
-> B 「これは恥ずかしい…」
+> B 「これは恥ずかしい…!」
 >
 > LiveCoder 「(/// 」
 
 LiveCoderが何を作るかについては、自分で決めた上でそれをLiveCoding前に告知します。
 ただし、観客の要望で仕様が強制的に変更になることがあります。
-どう考えても20分以内に実装できないことが明らかな場合、仕様変更要望は無視できます。
+もっとも、客観的に20分以内に実装できないことが明らかな場合、仕様変更要望は無視できます。
 
 * 一人のLiveCoderに対して二人の解説役が付くことがうまくいくという経験則があります。
 * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
@@ -38,33 +40,25 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ## Contents
 
-* [yaotti](http://d.hatena.ne.jp/yaotti/) さん
-
 * [ujihisa](http://ujihisa.blogspot.com/) さん
-  * LLVMかparse.yかTermtterかVimで何かをします!
+  * ClojureとMinecraftで何か作ります。Vimさばきにも注目。
 
 * LiveCoderを募集中です。
   * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
 
 ## 一般参加
 
-* 一般参加受付は１月１８日（月）を予定しております。
+* 一般参加受付はn月m日（x）を予定しております。
 
-## xxxHackathon
-* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でHackathonなどを行なうかもしれません。
-    * 案1: LLVM Hackathon
-    * 案2: Vim Hackathon
-    * 案3: Android Hackathon
+## 過去のLiveCodingの様子
 
-### 補足
-* 会場は翌朝まで使用可能ですが、寝具が無いため暖かい格好などを持参いただけると凍死のリスクを最小限に抑えられます。
-
-## LiveCoding#7(前回開催)の様子
-
-<http://Sixeight.github.com/livecoding7>
+* LiveCoding#7 <http://Sixeight.github.com/livecoding7>
+* LiveCoding#8+1 <http://Sixeight.github.com/livecoding8>
+* LiveCoding#10 (TODO ここにURLいれる)
 
 ----
 
+<!--
 # LiveCoding#8+1
 
 ## SUMMARY
@@ -76,11 +70,6 @@ LiveCoding is a new trend where programmers present their programming techniques
 It is exciting that we have a chance to watch the super techniques of great hackers.
 
 ## REGISTRATION
-
-<!--
-Now available.
-We accept the first 30 people!
--->
 
 Please wait.
 
@@ -115,3 +104,5 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
      * Plan 1: LLVM Hackathon
      * Plan 2: Vim Hackathon
      * Plan 3: Android Hackathon
+
+-->
