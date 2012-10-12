@@ -54,7 +54,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 * LiveCoding#7 <http://Sixeight.github.com/livecoding7>
 * LiveCoding#8+1 <http://Sixeight.github.com/livecoding8>
-* LiveCoding#10 (TODO ここにURLいれる)
+* LiveCoding#10 <http://www.johogaku.net/event10/sn2010code>
 
 ----
 
