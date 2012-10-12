@@ -10,6 +10,31 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>8b97378911d7274a4e7c11471314cf6004473358</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Added LC#10 link
+
+diff --git a/README.md b/README.md
+index c2189e7..7027b26 100644
+--- a/README.md
++++ b/README.md
+@@ -54,7 +54,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ * LiveCoding#7 &lt;http://Sixeight.github.com/livecoding7&gt;
+ * LiveCoding#8+1 &lt;http://Sixeight.github.com/livecoding8&gt;
+-* LiveCoding#10 (TODO ここにURLいれる)
++* LiveCoding#10 &lt;http://www.johogaku.net/event10/sn2010code&gt;
+ 
+ ----
+ 
+
+</pre>]]></description>
+      <pubDate>2012-10-12 10:20:19 +0900</pubDate>
+      <dc:date>2012-10-12 10:20:19 +0900</dc:date>
+    </item>
+    
+    <item>
       <title>0d426b5764c054fae90009678c278ca950c0f264</title>
       <link>http://ujihisa.github.com/livecoding11/</link>
       <description><![CDATA[<pre>
