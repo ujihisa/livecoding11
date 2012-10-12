@@ -13,7 +13,7 @@ LiveCoding#11 は現在 LiveCoder を募集中です。
 ## 概要(予定)
 
 * **2012-11-*\* (*) 17時半(?)開場、18時(?)開始**
-* [京都西陣町家スタジオ](http://nishi-jin.net/)
+* [Happy Elements株式会社 京都オフィス 3F カフェスペース](http://www.happyelements.co.jp/)
 * 参加費: n000円 (飲食込み)
 
 LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
@@ -62,9 +62,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 # LiveCoding#8+1
 
 ## SUMMARY
-* January 23 2010 (Sat) OPEN: 17:30, START: 18:00
-* [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
-* Fee: 3,000 yen
+* November xx 2010 (Sat) OPEN: 17:30, START: 18:00
+* [Happy Elements K.K Kyoto Office 3F cafe space (in Japanese)](http://www.happyelements.co.jp/)
+* Fee: x,000 yen
 
 LiveCoding is a new trend where programmers present their programming techniques live.
 It is exciting that we have a chance to watch the super techniques of great hackers.
@@ -93,9 +93,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be 
 
 ## CONTENTS
 
-* [yaotti](http://d.hatena.ne.jp/yaotti/)
 * [ujihisa](http://ujihisa.blogspot.com/)
-  * Will do something with LLVM, parse.y, Termtter or Vim!
+  * Will do something with Clojure with Vim!
 * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68@gmail.com).
 
 ## xxxHackathon
