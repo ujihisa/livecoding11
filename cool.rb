@@ -16,7 +16,7 @@ if __FILE__ == $0
     system "git checkout gh-pages"
     system "git merge master"
   end
-  system "erb -r #{__FILE__} -T - -P index.erb > index.html"
+  system "erb -r ./#{__FILE__} -T - -P index.erb > index.html"
   system "ruby a.rb > feed.rss"
   unless test_mode
     system "git add index.html feed.rss"
