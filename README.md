@@ -8,8 +8,7 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 LiveCoding#11 は現在 LiveCoder を募集中です。
 
-詳しくは 西村(Sixeight) tomohiro68 あと gmail どっと com まで。
-([@Sixeight](https://twitter.com/Sixeight))
+詳しくは 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで。
 
 ## 概要(予定)
 
@@ -47,7 +46,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * (調整中)
 
 * LiveCoderを募集中です。
-  * 希望者は 西村(Sixeight) tomohiro68 あと gmail どっと com まで連絡をお願いします。
+  * 希望者は 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで連絡をお願いします。
 
 ```
 タイトル： LiveCoding#11 LiveCoder応募
