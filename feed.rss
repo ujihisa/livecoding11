@@ -10,6 +10,36 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>0cdf0704f41d349cbe2347b814850eb227383957</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Updated
+
+diff --git a/README.md b/README.md
+index 9ed1aa0..4dbd056 100644
+--- a/README.md
++++ b/README.md
+@@ -51,10 +51,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ &lt;pre&gt;&lt;code&gt;タイトル： LiveCoding#11 LiveCoder応募
+ 本文：
+-□お名前(掲載してもよいもの)
+-□サイトに掲載するURL
+-□当日使用する言語(予定や未定でも可)
+-□もしも作るものが決まっていれば簡単にまとめたもの
++□ 掲載してもよいお名前
++□ 掲載してもブログなどのURL
++□ 作るものの概要 (自己紹介的なものでも可)
+ □その他自由形式
+ &lt;/code&gt;&lt;/pre&gt;
+ 
+
+</pre>]]></description>
+      <pubDate>2012-10-28 20:47:05 +0900</pubDate>
+      <dc:date>2012-10-28 20:47:05 +0900</dc:date>
+    </item>
+    
+    <item>
       <title>a222c475192fb0b60e8290cc8af63e0be9424e12</title>
       <link>http://ujihisa.github.com/livecoding11/</link>
       <description><![CDATA[<pre>
