@@ -10,6 +10,87 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>8d8031ee03993d1903afc68fb84680d4eb5f3464</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Updated
+
+diff --git a/README.md b/README.md
+index 39456de..6ff1b0c 100644
+--- a/README.md
++++ b/README.md
+@@ -8,11 +8,12 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+ 
+ LiveCoding#11 は現在 LiveCoder を募集中です。
+ 
+-詳しくは [西村(Sixeight)](tomohiro68 at gmail dot com) まで。
++詳しくは [西村(a.k.a Sixeight)](tomohiro68 at gmail dot com) まで。
++([@Sixeight](https://twitter.com/Sixeight))
+ 
+ ## 概要(予定)
+ 
+-* **2012-11-16 (金) 17時半(?)開場、18時(?)開始**
++* **2012-11-17 (土) 17時半(?)開場、18時(?)開始**
+ * [Happy Elements株式会社 京都オフィス 3F カフェスペース](http://www.happyelements.co.jp/)
+ * 参加費: n000円 (飲食込み)
+ * 発表者参加費: 0円 (交通費支援の可能性大)
+@@ -43,10 +44,21 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ * [ujihisa](http://ujihisa.blogspot.com/) さん
+   * ClojureとMinecraftで何か作ります。Vimさばきにも注目。
++* (調整中)
+ 
+ * LiveCoderを募集中です。
+   * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
+ 
++```
++タイトル： LiveCoding#11 LiveCoder応募
++本文：
++□お名前(掲載してもよいもの)
++□サイトに掲載するURL
++□当日使用する言語(予定や未定でも可)
++□もしも作るものが決まっていれば簡単にまとめたもの
++□その他自由形式
++```
++
+ ## 一般参加
+ 
+ * 一般参加受付はn月m日（x）を予定しております。
+
+</pre>]]></description>
+      <pubDate>2012-10-28 19:15:33 +0900</pubDate>
+      <dc:date>2012-10-28 19:15:33 +0900</dc:date>
+    </item>
+    
+    <item>
+      <title>bb5c5ea3f7c0d1e958b1dfbf4ed9e62b6f595449</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    date
+
+diff --git a/README.md b/README.md
+index 7027b26..39456de 100644
+--- a/README.md
++++ b/README.md
+@@ -12,9 +12,10 @@ LiveCoding#11 は現在 LiveCoder を募集中です。
+ 
+ ## 概要(予定)
+ 
+-* **2012-11-*\* (*) 17時半(?)開場、18時(?)開始**
++* **2012-11-16 (金) 17時半(?)開場、18時(?)開始**
+ * [Happy Elements株式会社 京都オフィス 3F カフェスペース](http://www.happyelements.co.jp/)
+ * 参加費: n000円 (飲食込み)
++* 発表者参加費: 0円 (交通費支援の可能性大)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+
+</pre>]]></description>
+      <pubDate>2012-10-24 13:04:52 +0900</pubDate>
+      <dc:date>2012-10-24 13:04:52 +0900</dc:date>
+    </item>
+    
+    <item>
       <title>8b97378911d7274a4e7c11471314cf6004473358</title>
       <link>http://ujihisa.github.com/livecoding11/</link>
       <description><![CDATA[<pre>
