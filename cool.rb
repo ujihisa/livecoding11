@@ -1,4 +1,4 @@
-command = `which pandoc`.empty? ? 'rdiscount' : 'pandoc'
+command = `which redcarpet`.empty? ? (`which pandoc`.empty? ? 'rdiscount' : 'pandoc') : 'redcarpet --smarty'
 @body = `#{command} README.md`
 
 test_mode = false

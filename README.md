@@ -48,15 +48,14 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * LiveCoderを募集中です。
   * 希望者は 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで連絡をお願いします。
 
-```
-タイトル： LiveCoding#11 LiveCoder応募
+<pre><code>タイトル： LiveCoding#11 LiveCoder応募
 本文：
 □お名前(掲載してもよいもの)
 □サイトに掲載するURL
 □当日使用する言語(予定や未定でも可)
 □もしも作るものが決まっていれば簡単にまとめたもの
 □その他自由形式
-```
+</code></pre>
 
 ## 一般参加
 
