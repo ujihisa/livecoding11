@@ -41,9 +41,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ## Contents
 
-* [ujihisa](http://ujihisa.blogspot.com/) さん
+* [ujihisa](http://ujihisa.blogspot.com/) さん \[Clojure\]
   * ClojureとMinecraftで何か作ります。Vimさばきにも注目。
-* (調整中)
+* [深町英太郎](http://fukamachi.github.com/) さん \[Common Lisp]
+  * まだ具体的に決まっていませんが、Common LispでWebアプリケーションとか作ろうと思います。
 
 * LiveCoderを募集中です。
   * 希望者は 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで連絡をお願いします。
