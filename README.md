@@ -8,14 +8,14 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 
 LiveCoding#11 は現在 LiveCoder を募集中です。
 
-詳しくは [西村(a.k.a Sixeight)](tomohiro68 at gmail dot com) まで。
+詳しくは 西村(Sixeight) tomohiro68 あと gmail どっと com まで。
 ([@Sixeight](https://twitter.com/Sixeight))
 
 ## 概要(予定)
 
 * **2012-11-17 (土) 17時半(?)開場、18時(?)開始**
 * [Happy Elements株式会社 京都オフィス 3F カフェスペース](http://www.happyelements.co.jp/)
-* 参加費: n000円 (飲食込み)
+* 参加費: 3,000円 (飲食込み)
 * 発表者参加費: 0円 (交通費支援の可能性大)
 
 LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
@@ -47,7 +47,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * (調整中)
 
 * LiveCoderを募集中です。
-  * 希望者は [西村(Sixeight)](tomohiro68@gmail.com) まで連絡をお願いします。
+  * 希望者は 西村(Sixeight) tomohiro68 あと gmail どっと com まで連絡をお願いします。
 
 ```
 タイトル： LiveCoding#11 LiveCoder応募
