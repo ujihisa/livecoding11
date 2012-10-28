@@ -18,9 +18,11 @@
       #bg {
         position: fixed;
         left: 0;
-        top: 0;
+        top: 50px;
         width: 100%;
         z-index: 0;
+        border-top: 1px solid #555555;
+        border-bottom: 1px solid #555555;
       }
       #container {
         position: absolute;
@@ -82,8 +84,17 @@
 
         <h1>LiveCoding#11</h1>
 
+<style type="text/css">
+.mini-icon{position:relative;top:2px;color:#bd2c00}
+.mini-icon{color:#c6c6c6}
+.mini-icon{height:100%;margin-top:-8px;top:50%}
+.mini-icon-feed:before {content:"\f034"}
+.mini-icon-feed {position:absolute;left:-19px;top:-1px;font-size:16px}
+
+</style>
+
 <div id="path">
-Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for ujihisa/livecoding11 at master" /></a>
+Subscribe me <a href="feed.rss"><span class="mini-icon mini-icon-feed">RSS</span><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for ujihisa/livecoding11 at master" /></a>
 </div>
 
 <h2>お知らせ</h2>
