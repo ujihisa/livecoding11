@@ -10,6 +10,108 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>bb5c5ea3f7c0d1e958b1dfbf4ed9e62b6f595449</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    date
+
+diff --git a/README.md b/README.md
+index 7027b26..39456de 100644
+--- a/README.md
++++ b/README.md
+@@ -12,9 +12,10 @@ LiveCoding#11 は現在 LiveCoder を募集中です。
+ 
+ ## 概要(予定)
+ 
+-* **2012-11-*\* (*) 17時半(?)開場、18時(?)開始**
++* **2012-11-16 (金) 17時半(?)開場、18時(?)開始**
+ * [Happy Elements株式会社 京都オフィス 3F カフェスペース](http://www.happyelements.co.jp/)
+ * 参加費: n000円 (飲食込み)
++* 発表者参加費: 0円 (交通費支援の可能性大)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
+
+</pre>]]></description>
+      <pubDate>2012-10-24 13:04:52 +0900</pubDate>
+      <dc:date>2012-10-24 13:04:52 +0900</dc:date>
+    </item>
+    
+    <item>
+      <title>8b97378911d7274a4e7c11471314cf6004473358</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Added LC#10 link
+
+diff --git a/README.md b/README.md
+index c2189e7..7027b26 100644
+--- a/README.md
++++ b/README.md
+@@ -54,7 +54,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ * LiveCoding#7 &lt;http://Sixeight.github.com/livecoding7&gt;
+ * LiveCoding#8+1 &lt;http://Sixeight.github.com/livecoding8&gt;
+-* LiveCoding#10 (TODO ここにURLいれる)
++* LiveCoding#10 &lt;http://www.johogaku.net/event10/sn2010code&gt;
+ 
+ ----
+ 
+
+</pre>]]></description>
+      <pubDate>2012-10-12 10:20:19 +0900</pubDate>
+      <dc:date>2012-10-12 10:20:19 +0900</dc:date>
+    </item>
+    
+    <item>
+      <title>0d426b5764c054fae90009678c278ca950c0f264</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Updated some information
+
+diff --git a/README.md b/README.md
+index db34f4d..c2189e7 100644
+--- a/README.md
++++ b/README.md
+@@ -13,7 +13,7 @@ LiveCoding#11 は現在 LiveCoder を募集中です。
+ ## 概要(予定)
+ 
+ * **2012-11-*\* (*) 17時半(?)開場、18時(?)開始**
+-* [京都西陣町家スタジオ](http://nishi-jin.net/)
++* [Happy Elements株式会社 京都オフィス 3F カフェスペース](http://www.happyelements.co.jp/)
+ * 参加費: n000円 (飲食込み)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+@@ -62,9 +62,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ # LiveCoding#8+1
+ 
+ ## SUMMARY
+-* January 23 2010 (Sat) OPEN: 17:30, START: 18:00
+-* [Kyoto Nishijin Machiya Studio (in Japanese)](http://nishi-jin.net/)
+-* Fee: 3,000 yen
++* November xx 2010 (Sat) OPEN: 17:30, START: 18:00
++* [Happy Elements K.K Kyoto Office 3F cafe space (in Japanese)](http://www.happyelements.co.jp/)
++* Fee: x,000 yen
+ 
+ LiveCoding is a new trend where programmers present their programming techniques live.
+ It is exciting that we have a chance to watch the super techniques of great hackers.
+@@ -93,9 +93,8 @@ In case the presentation cannot be completed within 20 minutes, requests can be
+ 
+ ## CONTENTS
+ 
+-* [yaotti](http://d.hatena.ne.jp/yaotti/)
+ * [ujihisa](http://ujihisa.blogspot.com/)
+-  * Will do something with LLVM, parse.y, Termtter or Vim!
++  * Will do something with Clojure with Vim!
+ * Potential applicants, please contact [NISHIMURA (Sixeight)](tomohiro68 at gmail com).
+ 
+ ## xxxHackathon
+
+</pre>]]></description>
+      <pubDate>2012-10-12 10:14:28 +0900</pubDate>
+      <dc:date>2012-10-12 10:14:28 +0900</dc:date>
+    </item>
+    
+    <item>
       <title>83944c7aab1e9af612c4c83ee0598597d8a9a327</title>
       <link>http://ujihisa.github.com/livecoding11/</link>
       <description><![CDATA[<pre>
@@ -128,8 +230,8 @@ index afcce05..db34f4d 100644
 +--&gt;
 
 </pre>]]></description>
-      <pubDate>2012-10-11 08:55:39 -0700</pubDate>
-      <dc:date>2012-10-11 08:55:39 -0700</dc:date>
+      <pubDate>2012-10-11 08:55:39 +0900</pubDate>
+      <dc:date>2012-10-11 08:55:39 +0900</dc:date>
     </item>
     
     <item>
@@ -163,8 +265,8 @@ index c90ee3b..afcce05 100644
  ## xxxHackathon
 
 </pre>]]></description>
-      <pubDate>2010-01-13 05:21:00 -0800</pubDate>
-      <dc:date>2010-01-13 05:21:00 -0800</dc:date>
+      <pubDate>2010-01-13 05:21:00 +0900</pubDate>
+      <dc:date>2010-01-13 05:21:00 +0900</dc:date>
     </item>
     
     <item>
@@ -188,8 +290,8 @@ index dd55473..c90ee3b 100644
  ## お知らせ
 
 </pre>]]></description>
-      <pubDate>2010-01-13 05:19:01 -0800</pubDate>
-      <dc:date>2010-01-13 05:19:01 -0800</dc:date>
+      <pubDate>2010-01-13 05:19:01 +0900</pubDate>
+      <dc:date>2010-01-13 05:19:01 +0900</dc:date>
     </item>
     
     <item>
@@ -215,8 +317,8 @@ index 045f853..dd55473 100644
      * 案1: LLVM Hackathon
 
 </pre>]]></description>
-      <pubDate>2010-01-13 01:57:19 -0800</pubDate>
-      <dc:date>2010-01-13 01:57:19 -0800</dc:date>
+      <pubDate>2010-01-13 01:57:19 +0900</pubDate>
+      <dc:date>2010-01-13 01:57:19 +0900</dc:date>
     </item>
     
     <item>
@@ -240,8 +342,8 @@ index 850bed1..045f853 100644
    * 希望者は [西村(Sixeight)](tomohiro68 at gmail com) まで連絡をお願いします。
 
 </pre>]]></description>
-      <pubDate>2010-01-13 01:36:29 -0800</pubDate>
-      <dc:date>2010-01-13 01:36:29 -0800</dc:date>
+      <pubDate>2010-01-13 01:36:29 +0900</pubDate>
+      <dc:date>2010-01-13 01:36:29 +0900</dc:date>
     </item>
     
     <item>
@@ -272,8 +374,8 @@ index 81b6b60..850bed1 100644
 +     * Plan 3: Android Hackathon
 
 </pre>]]></description>
-      <pubDate>2010-01-06 10:34:07 -0800</pubDate>
-      <dc:date>2010-01-06 10:34:07 -0800</dc:date>
+      <pubDate>2010-01-06 10:34:07 +0900</pubDate>
+      <dc:date>2010-01-06 10:34:07 +0900</dc:date>
     </item>
     
     <item>
@@ -300,8 +402,8 @@ index 4063181..81b6b60 100644
 \ No newline at end of file
 
 </pre>]]></description>
-      <pubDate>2010-01-06 02:52:08 -0800</pubDate>
-      <dc:date>2010-01-06 02:52:08 -0800</dc:date>
+      <pubDate>2010-01-06 02:52:08 +0900</pubDate>
+      <dc:date>2010-01-06 02:52:08 +0900</dc:date>
     </item>
     
     <item>
@@ -369,8 +471,8 @@ index 7cb0c9f..4063181 100644
 \ No newline at end of file
 
 </pre>]]></description>
-      <pubDate>2010-01-06 02:50:27 -0800</pubDate>
-      <dc:date>2010-01-06 02:50:27 -0800</dc:date>
+      <pubDate>2010-01-06 02:50:27 +0900</pubDate>
+      <dc:date>2010-01-06 02:50:27 +0900</dc:date>
     </item>
     
     <item>
@@ -409,8 +511,8 @@ index 42c8941..7cb0c9f 100644
  * January 23 2010 (Sat) OPEN: 17:30, START: 18:00
 
 </pre>]]></description>
-      <pubDate>2010-01-06 01:29:54 -0800</pubDate>
-      <dc:date>2010-01-06 01:29:54 -0800</dc:date>
+      <pubDate>2010-01-06 01:29:54 +0900</pubDate>
+      <dc:date>2010-01-06 01:29:54 +0900</dc:date>
     </item>
     
     <item>
@@ -442,8 +544,8 @@ index 9d7bc79..42c8941 100644
  A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
 
 </pre>]]></description>
-      <pubDate>2010-01-05 00:51:11 -0800</pubDate>
-      <dc:date>2010-01-05 00:51:11 -0800</dc:date>
+      <pubDate>2010-01-05 00:51:11 +0900</pubDate>
+      <dc:date>2010-01-05 00:51:11 +0900</dc:date>
     </item>
     
     <item>
@@ -467,8 +569,8 @@ index 7227a77..9d7bc79 100644
  
 
 </pre>]]></description>
-      <pubDate>2010-01-04 15:58:58 -0800</pubDate>
-      <dc:date>2010-01-04 15:58:58 -0800</dc:date>
+      <pubDate>2010-01-04 15:58:58 +0900</pubDate>
+      <dc:date>2010-01-04 15:58:58 +0900</dc:date>
     </item>
     
     <item>
@@ -492,8 +594,8 @@ index 33e8d43..7227a77 100644
  
 
 </pre>]]></description>
-      <pubDate>2010-01-04 15:58:42 -0800</pubDate>
-      <dc:date>2010-01-04 15:58:42 -0800</dc:date>
+      <pubDate>2010-01-04 15:58:42 +0900</pubDate>
+      <dc:date>2010-01-04 15:58:42 +0900</dc:date>
     </item>
     
     <item>
@@ -516,8 +618,8 @@ index 750fff2..33e8d43 100644
  ## 概要(予定)
 
 </pre>]]></description>
-      <pubDate>2009-12-31 16:14:56 -0800</pubDate>
-      <dc:date>2009-12-31 16:14:56 -0800</dc:date>
+      <pubDate>2009-12-31 16:14:56 +0900</pubDate>
+      <dc:date>2009-12-31 16:14:56 +0900</dc:date>
     </item>
     
     <item>
@@ -538,8 +640,8 @@ index 490cb10..750fff2 100644
  Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for Sixeight/livecoding7 at master&quot; /&gt;&lt;/a&gt;
 
 </pre>]]></description>
-      <pubDate>2009-12-31 16:07:06 -0800</pubDate>
-      <dc:date>2009-12-31 16:07:06 -0800</dc:date>
+      <pubDate>2009-12-31 16:07:06 +0900</pubDate>
+      <dc:date>2009-12-31 16:07:06 +0900</dc:date>
     </item>
     
     <item>
@@ -644,8 +746,8 @@ index 0000000..490cb10
 +* Please wait..
 +
 </pre>]]></description>
-      <pubDate>2009-12-31 16:00:36 -0800</pubDate>
-      <dc:date>2009-12-31 16:00:36 -0800</dc:date>
+      <pubDate>2009-12-31 16:00:36 +0900</pubDate>
+      <dc:date>2009-12-31 16:00:36 +0900</dc:date>
     </item>
     
   </channel>
