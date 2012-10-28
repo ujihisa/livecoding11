@@ -10,6 +10,108 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>1d15cf696fe5c45cc1b6fe9f665650f41569101d</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Updated
+
+diff --git a/README.md b/README.md
+index 2863f91..1231cea 100644
+--- a/README.md
++++ b/README.md
+@@ -48,15 +48,14 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCoderを募集中です。
+   * 希望者は 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで連絡をお願いします。
+ 
+-```
+-タイトル： LiveCoding#11 LiveCoder応募
++&lt;pre&gt;&lt;code&gt;タイトル： LiveCoding#11 LiveCoder応募
+ 本文：
+ □お名前(掲載してもよいもの)
+ □サイトに掲載するURL
+ □当日使用する言語(予定や未定でも可)
+ □もしも作るものが決まっていれば簡単にまとめたもの
+ □その他自由形式
+-```
++&lt;/code&gt;&lt;/pre&gt;
+ 
+ ## 一般参加
+ 
+
+</pre>]]></description>
+      <pubDate>2012-10-28 20:11:04 +0900</pubDate>
+      <dc:date>2012-10-28 20:11:04 +0900</dc:date>
+    </item>
+    
+    <item>
+      <title>ada0653f4cf406f13d63adf5810bdc54e14d7934</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    FC
+
+diff --git a/README.md b/README.md
+index 3384a87..2863f91 100644
+--- a/README.md
++++ b/README.md
+@@ -1,16 +1,7 @@
+ # LiveCoding#11
+ 
+-&lt;style type=&quot;text/css&quot;&gt;
+-.mini-icon{position:relative;top:2px;color:#bd2c00}
+-.mini-icon{color:#c6c6c6}
+-.mini-icon{height:100%;margin-top:-8px;top:50%}
+-.mini-icon-feed:before {content:&quot;\f034&quot;}
+-.mini-icon-feed {position:absolute;left:-19px;top:-1px;font-size:16px}
+-
+-&lt;/style&gt;
+-
+ &lt;div id=&quot;path&quot;&gt;
+-Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;span class=&quot;mini-icon mini-icon-feed&quot;&gt;RSS&lt;/span&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding11 at master&quot; /&gt;&lt;/a&gt;
++Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding11 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+ ## お知らせ
+
+</pre>]]></description>
+      <pubDate>2012-10-28 20:00:35 +0900</pubDate>
+      <dc:date>2012-10-28 20:00:35 +0900</dc:date>
+    </item>
+    
+    <item>
+      <title>e4611309e8d9d9cb468d1ce5615e913cba78088e</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Updated design a bit
+
+diff --git a/README.md b/README.md
+index 2863f91..3384a87 100644
+--- a/README.md
++++ b/README.md
+@@ -1,7 +1,16 @@
+ # LiveCoding#11
+ 
++&lt;style type=&quot;text/css&quot;&gt;
++.mini-icon{position:relative;top:2px;color:#bd2c00}
++.mini-icon{color:#c6c6c6}
++.mini-icon{height:100%;margin-top:-8px;top:50%}
++.mini-icon-feed:before {content:&quot;\f034&quot;}
++.mini-icon-feed {position:absolute;left:-19px;top:-1px;font-size:16px}
++
++&lt;/style&gt;
++
+ &lt;div id=&quot;path&quot;&gt;
+-Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding11 at master&quot; /&gt;&lt;/a&gt;
++Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;span class=&quot;mini-icon mini-icon-feed&quot;&gt;RSS&lt;/span&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding11 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+ ## お知らせ
+
+</pre>]]></description>
+      <pubDate>2012-10-28 19:59:02 +0900</pubDate>
+      <dc:date>2012-10-28 19:59:02 +0900</dc:date>
+    </item>
+    
+    <item>
       <title>f817a83d9e93393594dfcdfef7a012e185ad1cf7</title>
       <link>http://ujihisa.github.com/livecoding11/</link>
       <description><![CDATA[<pre>
