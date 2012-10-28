@@ -10,6 +10,69 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>a222c475192fb0b60e8290cc8af63e0be9424e12</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Added fukamachi san info
+
+diff --git a/README.md b/README.md
+index 1231cea..9ed1aa0 100644
+--- a/README.md
++++ b/README.md
+@@ -41,9 +41,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ## Contents
+ 
+-* [ujihisa](http://ujihisa.blogspot.com/) さん
++* [ujihisa](http://ujihisa.blogspot.com/) さん \[Clojure\]
+   * ClojureとMinecraftで何か作ります。Vimさばきにも注目。
+-* (調整中)
++* [深町英太郎](http://fukamachi.github.com/) さん \[Common Lisp]
++  * まだ具体的に決まっていませんが、Common LispでWebアプリケーションとか作ろうと思います。
+ 
+ * LiveCoderを募集中です。
+   * 希望者は 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで連絡をお願いします。
+
+</pre>]]></description>
+      <pubDate>2012-10-28 20:38:26 +0900</pubDate>
+      <dc:date>2012-10-28 20:38:26 +0900</dc:date>
+    </item>
+    
+    <item>
+      <title>1d15cf696fe5c45cc1b6fe9f665650f41569101d</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Updated
+
+diff --git a/README.md b/README.md
+index 2863f91..1231cea 100644
+--- a/README.md
++++ b/README.md
+@@ -48,15 +48,14 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCoderを募集中です。
+   * 希望者は 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで連絡をお願いします。
+ 
+-```
+-タイトル： LiveCoding#11 LiveCoder応募
++&lt;pre&gt;&lt;code&gt;タイトル： LiveCoding#11 LiveCoder応募
+ 本文：
+ □お名前(掲載してもよいもの)
+ □サイトに掲載するURL
+ □当日使用する言語(予定や未定でも可)
+ □もしも作るものが決まっていれば簡単にまとめたもの
+ □その他自由形式
+-```
++&lt;/code&gt;&lt;/pre&gt;
+ 
+ ## 一般参加
+ 
+
+</pre>]]></description>
+      <pubDate>2012-10-28 20:11:04 +0900</pubDate>
+      <dc:date>2012-10-28 20:11:04 +0900</dc:date>
+    </item>
+    
+    <item>
       <title>ada0653f4cf406f13d63adf5810bdc54e14d7934</title>
       <link>http://ujihisa.github.com/livecoding11/</link>
       <description><![CDATA[<pre>
