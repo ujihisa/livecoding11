@@ -12,7 +12,7 @@ LiveCoding#11 は現在 LiveCoder を募集中です。
 
 ## 概要(予定)
 
-* **2012-11-17 (土) 17時半(?)開場、18時(?)開始**
+* **2012-11-17 (土) JST 17時半(?)開場、18時(?)開始**
 * [Happy Elements株式会社 京都オフィス 3F カフェスペース](http://www.happyelements.co.jp/)
 * 参加費: 3,000円 (飲食込み)
 * 発表者参加費: 0円 (交通費支援の可能性大)
@@ -43,21 +43,20 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 * [ujihisa](http://ujihisa.blogspot.com/) さん \[Clojure\]
   * ClojureとMinecraftで何か作ります。Vimさばきにも注目。
-* [深町英太郎](http://fukamachi.github.com/) さん \[Common Lisp]
+* [深町英太郎](http://fukamachi.github.com/) さん \[Common Lisp\]
   * まだ具体的に決まっていませんが、Common LispでWebアプリケーションとか作ろうと思います。
-* 松村遼さん \[CoffeScript]
+* 松村遼さん \[CoffeeScript\]
   * ブラウザで動くものを作りたいと思います。
 
 * LiveCoderを募集中です。
   * 希望者は 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで連絡をお願いします。
 
-<pre><code>タイトル： LiveCoding#11 LiveCoder応募
-本文：
-□ 掲載してもよいお名前
-□ 掲載してもよいブログなどのURL
-□ 作るものの概要 (自己紹介的なものでも可)
-□その他自由形式
-</code></pre>
+    タイトル: LiveCoding#11 LiveCoder応募
+    本文:
+    * 掲載してもよいお名前
+    * 掲載してもよいブログなどのURL
+    * 作るものの概要 (自己紹介的なものでも可)
+    * その他自由形式
 
 ## 一般参加
 
