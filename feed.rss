@@ -10,10 +10,35 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
-      <title>112f83faa10f660ca70fd834b9fae1c86398cda3</title>
+      <title>3d47cb679dd0638a3ef1ef5c4b938688e104a191</title>
       <link>http://ujihisa.github.com/livecoding11/</link>
       <description><![CDATA[<pre>
-    Automatically updated index.html and feed.rss
+    Added 松村さん
+
+diff --git a/README.md b/README.md
+index 0b4bf4f..ffc932f 100644
+--- a/README.md
++++ b/README.md
+@@ -45,6 +45,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+   * ClojureとMinecraftで何か作ります。Vimさばきにも注目。
+ * [深町英太郎](http://fukamachi.github.com/) さん \[Common Lisp]
+   * まだ具体的に決まっていませんが、Common LispでWebアプリケーションとか作ろうと思います。
++* 松村遼さん \[CoffeScript]
++  * ブラウザで動くものを作りたいと思います。
+ 
+ * LiveCoderを募集中です。
+   * 希望者は 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで連絡をお願いします。
+
+</pre>]]></description>
+      <pubDate>2012-11-07 12:00:11 +0900</pubDate>
+      <dc:date>2012-11-07 12:00:11 +0900</dc:date>
+    </item>
+    
+    <item>
+      <title>5d9f0d016ad2ae58b9460b8aa86e856c44ea1462</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Fixed typo
 
 diff --git a/README.md b/README.md
 index 4dbd056..0b4bf4f 100644
@@ -30,8 +55,8 @@ index 4dbd056..0b4bf4f 100644
  &lt;/code&gt;&lt;/pre&gt;
 
 </pre>]]></description>
-      <pubDate>2012-10-29 10:08:23 +0900</pubDate>
-      <dc:date>2012-10-29 10:08:23 +0900</dc:date>
+      <pubDate>2012-10-28 21:40:06 +0900</pubDate>
+      <dc:date>2012-10-28 21:40:06 +0900</dc:date>
     </item>
     
     <item>
