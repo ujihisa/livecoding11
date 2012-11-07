@@ -45,6 +45,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
   * ClojureとMinecraftで何か作ります。Vimさばきにも注目。
 * [深町英太郎](http://fukamachi.github.com/) さん \[Common Lisp]
   * まだ具体的に決まっていませんが、Common LispでWebアプリケーションとか作ろうと思います。
+* 松村遼さん \[CoffeScript]
+  * ブラウザで動くものを作りたいと思います。
 
 * LiveCoderを募集中です。
   * 希望者は 西村([@Sixeight](https://twitter.com/Sixeight)) tomohiro68 あと gmail どっと com まで連絡をお願いします。
