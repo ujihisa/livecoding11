@@ -10,6 +10,34 @@
     <description>Recent Commits to livecoding8:master with Diff</description>
     
     <item>
+      <title>683d372000ccc10acd4d3e953d02c7338ec472c9</title>
+      <link>http://ujihisa.github.com/livecoding11/</link>
+      <description><![CDATA[<pre>
+    Updated
+
+diff --git a/README.md b/README.md
+index ffc932f..d15ad01 100644
+--- a/README.md
++++ b/README.md
+@@ -12,9 +12,9 @@ LiveCoding#11 は現在 LiveCoder を募集中です。
+ 
+ ## 概要(予定)
+ 
+-* **2012-11-17 (土) 17時半(?)開場、18時(?)開始**
++* **2012-11-17 (土) 17時半開場、18時開始**
+ * [Happy Elements株式会社 京都オフィス 3F カフェスペース](http://www.happyelements.co.jp/)
+-* 参加費: 3,000円 (飲食込み)
++* 参加費: 1,500円 (飲食込み)
+ * 発表者参加費: 0円 (交通費支援の可能性大)
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+
+</pre>]]></description>
+      <pubDate>2012-11-11 23:25:58 +0900</pubDate>
+      <dc:date>2012-11-11 23:25:58 +0900</dc:date>
+    </item>
+    
+    <item>
       <title>3d47cb679dd0638a3ef1ef5c4b938688e104a191</title>
       <link>http://ujihisa.github.com/livecoding11/</link>
       <description><![CDATA[<pre>
